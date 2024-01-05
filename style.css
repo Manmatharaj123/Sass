@@ -1,0 +1,24 @@
+.nav {
+  display: flex;
+  padding: 2%;
+  background-color: bisque;
+}
+.nav .header {
+  width: 30%;
+  padding: 2%;
+}
+.nav .header h1 {
+  color: red;
+}
+.nav .header p {
+  background-color: aqua;
+  color: palevioletred;
+  font-size: 20px;
+  border-radius: 10px;
+  font-weight: bold;
+}
+.nav .header h2 {
+  color: red;
+}
+
+/*# sourceMappingURL=style.css.map */
